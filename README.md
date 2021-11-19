@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jesslyn Perdana.
 - 🍱 I'm currently a Grade 10 student self-studying web development.
 - 👀 I’m interested in web development, coding and programmes such as HTML, JavaScript, Python and many more.
-- 🌱 I'm currently learning JavaScript and I just finished my studies on HTML, CSS and Bootstrap.
+- 🌱 I'm currently learning JavaScript and I just finished my courses on HTML, CSS and Bootstrap.
 - 💞️ I’m looking forward to improve my coding, web development and handling of different programmes.
 
 <!---
